@@ -76,14 +76,6 @@ a {
   font-size: 1.3rem;
 }
 
-.mb {
-  margin-bottom: 1rem;
-}
-
-.mt {
-  margin-top: 1rem;
-}
-
 /* Buttons */
 .btn {
   padding: 1rem;
@@ -118,6 +110,19 @@ a {
 
 .text-light {
   color: var(--light-color);
+}
+
+.bg-light {
+  background: var(--light-color);
+  color: #333;
+}
+
+.mb {
+  margin-bottom: 1rem;
+}
+
+.mt {
+  margin-top: 1rem;
 }
 
 /* Navigation */
